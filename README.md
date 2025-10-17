@@ -1,0 +1,2 @@
+# programcion-lineal
+METODO SIMPLEX
